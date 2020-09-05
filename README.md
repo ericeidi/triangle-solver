@@ -1,3 +1,3 @@
 # triangle-solver
 
-Application to test if triangle is scalene isosceles or equilateral using Nunit.
+Application in C# to test if triangle is scalene isosceles or equilateral using Nunit.
